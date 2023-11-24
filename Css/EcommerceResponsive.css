@@ -1,0 +1,582 @@
+@media only screen and (max-width: 1200px) {
+  .topbar-section .topbar-parents .topbar1 ul li a {
+    
+    padding: 0 15px;
+   
+}
+
+.topbar-section .topbar-parents .topbar-emoji ul {
+  
+  padding-right: 15px;
+}
+
+    .topbar-section .topbar-parents {
+ 
+      grid-template-columns: 1fr 2fr 1fr;
+      
+    }
+
+    .support-farmers-section .farmers-parents .img11 img {
+     
+      margin: 20px 100px;
+  }
+
+  .newly-section .newly-parents .newly {
+    padding: 200px 0 0 40px;
+}
+
+.newly-section .newly-parents .fresh {
+  padding: 200px 0 0 40px;
+}
+ 
+.footer-section .footer-parents {
+  grid-template-columns: 1fr 2fr;
+}
+
+.footer-section .footer-parents .emoji ul {
+ 
+  justify-content: flex-start;
+}
+   
+
+  }
+
+  /* --------------------1024px------------------- */
+
+  @media only screen and (max-width: 1024px) {
+
+    .topbar-section .topbar-parents .topbar1 ul li a {
+     
+      font-size: 20px;
+  }
+  .topbar-section .topbar-parents {
+ 
+    grid-template-columns: 1fr 5fr 1fr;
+    
+  }
+  .topbar-section .topbar-parents .topbar-emoji ul {
+  
+    padding-right: 12px;
+  }
+
+  .support-local-section .support-local-parents h3 {
+    font-size: 23px;
+    
+}
+.support-local-section .support-local-parents h1{
+  font-size: 60px;
+  
+}
+
+.ready-section .ready-parents .packs .img1 {
+ display: none;
+}
+ 
+
+.support-farmers-section .farmers-parents .img11 img {
+  position:unset;
+ 
+}
+
+.newly-section {
+ padding: 0;
+}
+.newly-section .newly-parents .newly {
+  padding: 100px 0 0 20px;
+}
+
+.newly-section .newly-parents .fresh {
+  padding: 100px 0 0 20px;
+}
+
+.footer-section .footer-parents {
+  grid-template-columns: 1fr;
+}
+.footer-section .footer-parents .local{
+  margin-bottom: 30px;
+}
+
+  }
+
+  /* -------------------------768px-------------------------- */
+
+  @media only screen and (min-width: 768px) {
+
+    .topbar-section .topbar-parents .topbar-emoji ul li:last-child i {
+      display: none;
+     }
+
+
+
+  }
+
+
+  @media only screen and (max-width: 768px) {
+    .topbar-section .topbar-parents .topbar1 {
+      display: none;
+  }
+  .topbar-section .topbar-parents {
+ 
+    grid-template-columns: 2fr 1fr;
+    
+  }
+  .topbar-section .topbar-parents .topbar-emoji ul {
+  
+    justify-content: center;
+
+}
+
+
+.topbar-section .topbar-parents .topbar-emoji ul li:last-child i {
+ visibility: visible;
+}
+
+
+
+.topbar-section .topbar-emoji ul li:last-child:hover .topbar2{
+  visibility:visible;
+  opacity: 1;
+}
+
+.support-farmers-section .farmers-parents .img11 img {
+  margin: 0;
+}
+
+
+.support-local-section .support-local-parents h3 {
+  font-size: 18px;
+  
+}
+
+.support-local-section .support-local-parents h1{
+  font-size: 50px;
+  
+}
+.support-local-section .support-local-parents img {
+  position:unset;
+  
+}
+.support-local2-section .support-local2-parents .pra {
+  grid-template-columns: 1fr;
+}
+
+.support-local-section .support-local-parents h3 {
+ 
+  text-align: left;
+  padding: 30px 0 20px 0;
+}
+.support-local-section .support-local-parents h1 {
+ 
+  text-align: center;
+ 
+}
+
+.newly-section .newly-parents .newly {
+  padding: 50px 0 0 10px;
+}
+
+.newly-section .newly-parents .fresh {
+  padding: 50px 0 0 10px;
+}
+.testimonials-section .testimonials-parents p {
+
+  font-size: 11px;
+}
+
+
+}
+
+  /* --------------------------425px---------------------------- */
+
+  @media only screen and (max-width: 425px) {
+   
+    
+    .ready-section .ready-parents .packs .img3 {
+     display: none;
+  }
+
+  .newly-section .newly-parents {
+    
+    grid-template-columns: 1fr;
+   
+}
+.newly-section {
+
+  padding-top: 0px;
+}
+
+.newly-section .newly-parents .fresh {
+  padding: 50px 0 20px 10px;
+}
+
+.testimonials-section {
+  padding: 50px 0;
+ 
+}
+
+.testimonials-section .testimonials-parents {
+ 
+  grid-template-columns: 1fr;
+  
+}
+.testimonials-section .testimonials-parents .client1 {
+  padding-bottom: 50px;
+}
+.testimonials-section .testimonials-parents .client2 {
+  padding-bottom: 50px;
+}
+
+.testimonials-section .testimonials-parents .client3 {
+  padding-bottom: 50px;
+}
+.testimonials-section .testimonials-parents .client4 {
+  padding-bottom: 50px;
+}
+.farms-section .farms-parents {
+ 
+  grid-template-columns: 1fr;
+  
+}
+.farms-section .farms-parents .farm-p1 {
+  padding-bottom: 50px;
+}
+.farms-section .farms-parents .farms-p2 {
+  padding-bottom: 50px;
+}
+.farms-section .farms-parents .farms-p3 {
+  padding-bottom: 50px;
+}
+.farms-section .farms-parents .farms-p4 {
+  padding-bottom: 50px;
+}
+.support-farmers-section .farmers {
+  padding: 0px;
+}
+.support-farmers-section .farmers-parents .img11 img {
+margin: 0px;
+width: 100%;
+border-radius: 0 160px;
+}
+
+
+.support-local-section .support-local-parents img {
+
+  border-radius: 0 180px 0 0;
+  width: 100%;
+}
+
+.footer-section .footer-parents {
+ 
+  text-align: center;
+}
+
+.footer-section .footer-parents .emoji ul {
+  justify-content: center;
+}
+
+.footer-section .footer-parents .local-2 {
+  
+  grid-template-columns: 1fr;
+}
+
+.footer-section .footer-parents .local-2 .team {
+  padding: 35px 0;
+}
+
+
+.support-local-section .support-local-parents {
+padding-top: 0px;
+}
+
+.support-local-section .support-local-parents h1 {
+font-size: 37px;
+}
+
+
+.support-local2-section .support-local2-parents p {
+
+padding: 30px 0px;
+font-size: 14px;
+}
+
+.support-local2-section .support-local2-parents button {
+
+font-size: 16px;
+}
+.support-local2-section .support-local2-parents .pra {
+
+padding-bottom: 20px;
+}
+
+.ready-section {
+
+padding: 40px 0;
+}
+.ready-section .ready-parents .pra p {
+font-size: 20px;
+
+}
+
+.ready-section .ready-parents .pra h1 {
+font-size: 30px;
+padding: 20px 0 25px 0;
+}
+
+.support-farmers-section .farmers h3 {
+font-size: 16px;
+padding-top: 20px;
+}
+
+.support-farmers-section .farmers h1 {
+
+font-size: 40px;
+
+}
+
+.support-farmers-section .farmers p {
+
+font-size: 14px;
+
+}
+
+.support-farmers-section .farmers button {
+padding: 5px 15px;
+font-size: 18px;
+
+}
+.newly-section .newly-parents .newly {
+padding: 20px 0 0 10px;
+}
+.newly-section .newly-parents h1 {
+font-size: 30px;
+
+}
+.newly-section .newly-parents p {
+font-size: 14px;
+
+}
+.newly-section .newly-parents button {
+
+font-size: 16px;
+
+
+}
+.testimonials-section .testimonials h1 {
+font-size: 30px;
+
+}
+
+.testimonials-section .testimonials h3 {
+
+font-size: 15px;
+
+}
+.testimonials-section {
+padding-bottom: 0;
+}
+
+.farms-section {
+
+padding: 50px 0;
+}
+
+.farms-section h1 {
+font-size: 36px;
+padding-bottom: 30px;
+
+
+}
+.farms-section button {
+
+font-size: 18px;
+
+margin-top: 0px;
+}
+.footer-section {
+
+padding: 50px 0;
+}
+
+.footer-section .footer-parents h1 {
+font-size: 36px;
+
+}
+
+.footer-section  p {
+font-size: 14px;
+}
+
+
+}
+
+
+
+
+
+  
+
+
+  /* ---------------------------375px-------------------------------- */
+
+  @media only screen and (max-width: 375px) {
+    
+
+      .topbar-section .topbar-parents {
+        grid-template-columns: 1fr;
+       
+    }
+  
+    .topbar-section .topbar-parents .logo {
+     text-align: center;
+     padding: 15px 0;
+     
+  }
+    .topbar-section .topbar-parents .topbar-emoji ul {
+      justify-content: space-around;
+  }
+  .support-local-section .support-local-parents {
+    padding-top: 0px;
+  }
+  
+  .support-local-section .support-local-parents h1 {
+    font-size: 37px;
+  }
+  
+  
+  .support-local2-section .support-local2-parents p {
+   
+    padding: 30px 0px;
+    font-size: 14px;
+  }
+  
+  .support-local2-section .support-local2-parents button {
+   
+    font-size: 16px;
+  }
+  .support-local2-section .support-local2-parents .pra {
+   
+    padding-bottom: 20px;
+  }
+  
+  .ready-section {
+  
+    padding: 40px 0;
+  }
+  .ready-section .ready-parents .pra p {
+    font-size: 20px;
+   
+  }
+  
+  .ready-section .ready-parents .pra h1 {
+    font-size: 30px;
+    padding: 20px 0 25px 0;
+  }
+  
+  .support-farmers-section .farmers h3 {
+    font-size: 16px;
+    padding-top: 20px;
+  }
+  
+  .support-farmers-section .farmers h1 {
+   
+    font-size: 40px;
+    
+  }
+  
+  .support-farmers-section .farmers p {
+   
+    font-size: 14px;
+   
+  }
+  
+  .support-farmers-section .farmers button {
+    padding: 5px 15px;
+    font-size: 18px;
+   
+  }
+  .newly-section .newly-parents .newly {
+    padding: 20px 0 0 10px;
+  }
+  .newly-section .newly-parents h1 {
+    font-size: 30px;
+    
+  }
+  .newly-section .newly-parents p {
+    font-size: 14px;
+    
+  }
+  .newly-section .newly-parents button {
+   
+    font-size: 16px;
+   
+   
+  }
+  .testimonials-section .testimonials h1 {
+    font-size: 30px;
+   
+  }
+  
+  .testimonials-section .testimonials h3 {
+    
+    font-size: 15px;
+  
+  }
+  .testimonials-section {
+    padding-bottom: 0;
+  }
+  
+  .farms-section {
+   
+    padding: 50px 0;
+  }
+  
+  .farms-section h1 {
+    font-size: 36px;
+    padding-bottom: 30px;
+    
+      
+    }
+    .farms-section button {
+      
+      font-size: 18px;
+    
+      margin-top: 0px;
+  }
+  .footer-section {
+    
+    padding: 50px 0;
+  }
+  
+  .footer-section .footer-parents h1 {
+    font-size: 36px;
+    
+  }
+  
+  .footer-section  p {
+    font-size: 14px;
+  }
+  
+  
+    }
+  
+   
+    
+  
+
+  /* ---------------------320px------------------ */
+
+
+ 
+
+
+/* 
+  @media only screen and (max-width:2000px) {
+
+   .topbar-section .topbar-parents .topbar-emoji .topbar2{
+    visibility: hidden;
+  
+    opacity: 0;
+  }
+
+    
+  } */
